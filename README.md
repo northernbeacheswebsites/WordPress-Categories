@@ -1,4 +1,4 @@
-# WordPress-Categories
+# WordPress Categories
 
 ### Setup notes
 This WordPress plugin called 'category-sync' syncs categories between a WordPress installation and an external database with the external database being the master and the WordPress database being the slave. For testing purposes a JSON server was used: https://github.com/typicode/json-server
